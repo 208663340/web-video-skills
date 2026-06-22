@@ -1,0 +1,6 @@
+interface:
+  display_name: "Web Video Presentation"
+  short_description: "Turn scripts/articles into cinematic web videos"
+  default_prompt: "Use $web-video-presentation to turn this article or script into a 16:9 web-video presentation."
+policy:
+  allow_implicit_invocation: true
